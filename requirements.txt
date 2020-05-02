@@ -1,0 +1,6 @@
+urllib
+bs4
+nltk
+pandas
+psycopg2
+tqdm
